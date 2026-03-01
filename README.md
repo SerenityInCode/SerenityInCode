@@ -1,6 +1,6 @@
 # 👩‍💻 Manisha Sharma   
 
-*🎓 MSc Data Science with Artificial Intelligence (Merit)  @ University of Exeter ’25 (Russell Group) | Data Science & Analytics | Python • R • SQL • Machine Learning • AI* <br>
+*🎓 MSc Data Science with Artificial Intelligence (Merit)  @ University of Exeter ’25 (Russell Group) | Data Science & Analytics | Python • SQL • Machine Learning • AI* <br>
 📍 United Kingdom  
 📊 Data Scientist | Data Analyst | Insight Analyst  
 
